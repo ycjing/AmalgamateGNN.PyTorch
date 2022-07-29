@@ -33,7 +33,7 @@ Our [log](logs/log_student.txt) file is provided in the folder "logs".
 
 If you find this code useful for your research, please consider citing:
 ```
-@article{jing2021amalgamate,
+@inproceedings{jing2021amalgamate,
   title={Amalgamating Knowledge from Heterogeneous Graph Neural Networks},
   author={Jing, Yongcheng and Yang, Yiding and Wang, Xinchao and Song, Mingli and Tao, Dacheng},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
